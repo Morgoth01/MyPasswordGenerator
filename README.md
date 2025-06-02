@@ -11,7 +11,7 @@ MyPasswordGenerator is a modern, open-source Windows application designed to hel
 - Light and Dark mode with persistent user preference
 - Copy-to-clipboard functionality
 
-###Download the latest version here: https://github.com/Morgoth01/MyPasswordGenerator/releases/latest
+#### Download the latest version here: https://github.com/Morgoth01/MyPasswordGenerator/releases/latest
 
 ## Third-Party Library
 
