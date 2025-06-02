@@ -16,8 +16,10 @@ MyPasswordGenerator is a modern, open-source Windows application designed to hel
 This application uses the following third-party library:
 
 - [zxcvbn-cs](https://github.com/trichards57/zxcvbn-cs) (MIT License)
-  Copyright (c) 2012 Dropbox
-  Copyright (c) 2020 Tony Richards
+
+Copyright (c) 2012 Dropbox
+
+Copyright (c) 2020 Tony Richards
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
