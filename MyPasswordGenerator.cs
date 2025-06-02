@@ -1,7 +1,7 @@
 // MyPasswordGenerator
 // Author: Claude Peters (https://github.com/Morgoth01)
 // Copyright (c) 2025 Claude Peters
-// License: MIT
+// License: GPL-3.0
 
 using System;
 using System.Collections.Generic;
