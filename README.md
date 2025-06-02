@@ -1,6 +1,6 @@
-# MyPasswordGenerator
+# My Password Generator
 
-MyPasswordGenerator is a modern, open-source Windows application designed to help users create strong, secure passwords and passphrases with ease. It features a user-friendly interface with multiple tabs for password generation, passphrase creation, and password strength checking.
+My Password Generator is a modern, open-source Windows application designed to help users create strong, secure passwords and passphrases with ease. It features a user-friendly interface with multiple tabs for password generation, passphrase creation, and password strength checking.
 
 ## Features
 
